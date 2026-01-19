@@ -51,7 +51,7 @@ personalized-news-digest/
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/<your-username>/personalized-news-digest.git
+git clone https://github.com/Kaifee3/news-digest
 cd news-digest
 ```
 
